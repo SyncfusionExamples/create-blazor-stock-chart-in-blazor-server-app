@@ -1,13 +1,13 @@
 ﻿@page "/"
 
 
-<SfStockChart Title="Stock Price Analysis" EnableSelector="false">
+<SfStockChart Title="Stock Price Analysis" EnablePeriodSelector="true">
     <StockChartPeriods>
-        <StockChartPeriod Selected="true" IntervalType="@RangeIntervalType.Hours"
+        <StockChartPeriod Selected="true" IntervalType="RangeIntervalType.Hours"
             Interval="12" Text="12h">
         </StockChartPeriod>
     </StockChartPeriods>
-    <StockChartCrosshairSettings Enable="true">6
+    <StockChartCrosshairSettings Enable="true">
     </StockChartCrosshairSettings>
     <StockChartTooltipSettings Enable="true">
     </StockChartTooltipSettings>
@@ -20,7 +20,7 @@
         </StockChartAxisCrosshairTooltip>
     </StockChartPrimaryYAxis>
     <StockChartSeriesCollection>
-        <StockChartSeries Type="@ChartSeriesType.Candle" DataSource="@StockDetails"
+        <StockChartSeries Type="ChartSeriesType.Candle" DataSource="@StockDetails"
                           XName="Date" High="High" Low="Low" Open="Open" Close="Close"
                           Volume="Volume">
         </StockChartSeries>
