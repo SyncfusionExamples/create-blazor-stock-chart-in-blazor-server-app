@@ -15,23 +15,19 @@ The [Blazor Stock Chart](https://www.syncfusion.com/blazor-components/blazor-sto
 
 ## Features and Benefits
 
-## Sparkline types
-
-Blazor Sparkline Charts support five types of sparklines [line](https://blazor.syncfusion.com/documentation/sparkline/chart-types?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#line), [column](https://blazor.syncfusion.com/documentation/sparkline/chart-types?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#column), [area](https://blazor.syncfusion.com/documentation/sparkline/chart-types?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#area), [win-loss](https://blazor.syncfusion.com/documentation/sparkline/chart-types?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#winloss), and [pie](https://blazor.syncfusion.com/documentation/sparkline/chart-types?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#pie) to show data trends.
-
-## Axis customization
+### Axis customization
 
 Configure and customize the axis in Blazor Sparkline graphs to show the origin and range of the data points.
 
-## Data label
+### Data label
 
 Improve readability by using [data labels](https://blazor.syncfusion.com/documentation/sparkline/data-labels?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples) in the Blazor Sparkline to display the values of data points.
 
-## Tooltip
+### Tooltip
 
 The interactive Blazor Sparkline Charts provide options to display details about data point values through a [tooltip](https://blazor.syncfusion.com/documentation/sparkline/user-interaction?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples#tooltip) when hovering the mouse over a data point.
 
-## Range band
+### Range band
 
 Highlight a particular region in a Blazor sparkline charts using a range band to show the range of safe values. By setting the minimum and maximum ranges for a range band, the outliers can be easily identified.
 
@@ -63,7 +59,7 @@ Denote the data usage in Blazor sparkline charts by highlighting and customizing
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/stock-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples)
 
 ## About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Sptock Chart, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Stock Chart, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-stock-chart-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
